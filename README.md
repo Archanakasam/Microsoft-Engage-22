@@ -11,4 +11,8 @@
 -       w(i,j) = T.F * I.D.F
 - We can implement TF-IDF Model by importing sklearn Package.
 -  To Know more about this model, [click this](https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency). 
+## Prerequisites
+- Python 3.10
+- Streamlit
+
 
